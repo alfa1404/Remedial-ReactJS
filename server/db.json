@@ -1,0 +1,25 @@
+{
+  "credentials": [
+    {
+      "nama": "Amreza",
+      "url": "https://amreza.com",
+      "username": "amreza",
+      "password": "amreza",
+      "id": 1
+    },
+    {
+      "nama": "Achmad",
+      "url": "https://achmad.com",
+      "username": "achmad",
+      "password": "achmad",
+      "id": 2
+    },
+    {
+      "nama": "Alfarit",
+      "url": "https://alfarit.com",
+      "username": "alfarit",
+      "password": "alfarit",
+      "id": 3
+    }
+  ]
+}
